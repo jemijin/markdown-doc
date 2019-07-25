@@ -8,7 +8,9 @@
 single-spa apps consist of 2 factors
 1. Application
 2. single-spa-config
-3. 
+	* A name
+	* A function to load the application's code
+	* A function that determines when the application is active/inactive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjczMjYxOCwyMDc1ODQ0NjE5XX0=
+eyJoaXN0b3J5IjpbMjg5NDgwMDY2LDIwNzU4NDQ2MTldfQ==
 -->
