@@ -4,6 +4,10 @@
 * Deploy your microfrontends independently.
 * Write cod using new framework, without rewriting your existing app
 * Lazy load code for imporved initial load time.
+
+single-spa apps consist of 2 factors
+1. Application
+2. single-spa-config
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzQ4Mjc2NV19
+eyJoaXN0b3J5IjpbMjA3NTg0NDYxOV19
 -->
