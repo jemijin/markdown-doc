@@ -8,6 +8,9 @@
 2. 문제를 해결할 때 서로 중복되거나 누락되는 부분이 없도록 한다.
 
 
+```
+code is good
+```
 
 
 
@@ -19,6 +22,6 @@
 
 [^1]: Mutually Exclusive, Collectively Exhaustive : 누락이 없고 중복되지 않는다. ex) 가위, 바위, 보
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDgyNzY5NzEsODk4MTk5OTc4LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTc3NjQ0OTI0MSwtMjA0ODI3Njk3MSw4OT
+gxOTk5NzgsLTIwODg3NDY2MTJdfQ==
 -->
